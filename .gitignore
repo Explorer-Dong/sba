@@ -1,0 +1,4 @@
+cdm/*
+data/*
+!cdm/.gitkeep
+!data/.gitkeep
